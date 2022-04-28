@@ -1,7 +1,5 @@
-MarsPhotos - Starter Code
+MarsPhotos
 ==================================
-
-Starter code for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
 
 Introduction
 ------------
@@ -16,16 +14,7 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 [Data Binding](https://developer.android.com/topic/libraries/data-binding/) with binding 
 adapters.
 
-Pre-requisites
---------------
-
-You need to know:
-- How to create and use fragments.
-- How to use architecture components including ViewModel, and LiveData.
-- How to use coroutines for long-running tasks.
-
-
-Getting Started
----------------
-
 1. Download and run the app.
+
+This app is retrieved from the starter code of Mars App
+Link- https://github.com/google-developer-training/android-basics-kotlin-mars-photos-app/tree/starter
